@@ -1,4 +1,4 @@
-# data-science-nanodegree-udacity
+# Data Scientist Nanodegree - Udacity
 Here is a brief description of the projects I have done.
 
  
