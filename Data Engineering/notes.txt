@@ -1,0 +1,1 @@
+ML algorithms like gradient boosting decision trees can handle null values
